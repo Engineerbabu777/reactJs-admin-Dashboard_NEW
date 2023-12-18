@@ -1,6 +1,9 @@
 @use "mixin";
 @use "dashboard";
 @use "products";
+@use "chart";
+@use "dashboardapp";
+@use "mediaquery";
 
 :root {
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;

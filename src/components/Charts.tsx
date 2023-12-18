@@ -13,7 +13,7 @@ import {
     LineElement,
     Filler,
   } from "chart.js";
-  import { Bar,Doughnut } from "react-chartjs-2";
+  import { Bar,Doughnut,Pie,Line } from "react-chartjs-2";
   
   ChartJS.register(
     CategoryScale,
